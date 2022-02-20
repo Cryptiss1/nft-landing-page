@@ -10,9 +10,9 @@
   --font-code: 'Luckiest Guy', monospace;
   --bg-color: #000000;
   --font-color: #12ce21;
-  --btn-bg-color: #616161;
-  --accent-color: #12ce21;
-  --header-shadow: #12ce21 0px 0px 5px;
+  --btn-bg-color: #cacaca;
+  --accent-color: #6b6b6b;
+  --header-shadow: #8f8f8f 0px 0px 5px;
 }
 
 * {
