@@ -8,11 +8,11 @@
   --font-primary: 'Audiowide', sans-serif;
   --font-secondary: 'Unica One', serif;
   --font-code: 'Luckiest Guy', monospace;
-  --bg-color: #0251ac;
-  --font-color: #ffffff;
-  --btn-bg-color: #35da20;
-  --accent-color: #000000;
-  --header-shadow: #000000 0px 0px 5px;
+  --bg-color: #000000;
+  --font-color: #12ce21;
+  --btn-bg-color: #616161;
+  --accent-color: #12ce21;
+  --header-shadow: #12ce21 0px 0px 5px;
 }
 
 * {
